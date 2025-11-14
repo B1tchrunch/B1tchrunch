@@ -1,49 +1,36 @@
-🔥 Andres Asprilla — Cybersecurity Graduate Student & Researcher
-🔐 Cybersecurity | 🔭 Emerging Tech | 📡 Network Defense | 🧪 Applied Research
+# Andres Asprilla — Cybersecurity Researcher
 
-I'm a graduate cybersecurity student focused on designing, analyzing, and securing modern distributed systems. My work blends industry tools with research-grade methodology.
+I investigate how emerging technologies intersect with security, privacy, and autonomy.  
+My work spans AI-driven IoT defense, blockchain-based mitigation strategies, and secure system design.
 
-🧠 Research Interests
+### 🔬 Research Interests
+- Autonomous security agents  
+- Blockchain frameworks for DDoS mitigation  
+- Machine learning for intrusion detection  
+- IoT privacy, trust, and cryptographic architectures  
+- Simulation environments for network defense
 
-IoT Security & Privacy
+### 📚 Current Work
+- **Graduate Research (MS Cybersecurity, FIU)**
+  Building a blockchain-based simulation framework for DDoS mitigation using distributed consensus, traffic analysis, and smart-contract enforcement.
 
-Blockchain Applications in Security
+- **Applied AI + IoT**
+  Exploring edge inference, private federated learning, and AI-powered threat detection.
 
-Cloud Infrastructure Defense
+### 🛠️ Technical Stack
+**Languages:** Python, Go, C, Solidity  
+**Security:** Wireshark, Burp, Suricata, Splunk, ELK  
+**AI/ML:** PyTorch, Scikit-learn, TensorFlow Lite  
+**Cloud & Infra:** Docker, Kubernetes, Linux, AWS  
+**Blockchain:** Ethereum, Hardhat, Web3.py
 
-DDoS Attack Mitigation
+### 📂 Selected Repositories
+- 🔗 *Blockchain DDoS Simulation Framework* — in development  
+- 🤖 *AI Chatbot for Security Queries*  
+- 🛡️ *IoT Privacy Threat Model (Research Demo)*  
 
-Threat Modeling (STRIDE, MITRE ATT&CK)
-
-AI × Cybersecurity automation
-
-🛠 Technical Skills
-
-Languages: Python, JavaScript (Node.js), Bash
-
-Security Tools: Wireshark, BurpSuite, Nessus, Nmap, Metasploit
-
-Cloud: AWS, Azure, Docker, Linux
-
-Research Tools: Jupyter, LaTeX, IEEE/ACM paper formatting
-
-AI: OpenAI API, LangChain, model fine-tuning, embeddings
-
-📂 Featured Projects
-
-🧬 AI Cybersecurity Assistant – An LLM-powered research copilot for analyzing threats, papers, and logs.
-
-🔗 Blockchain DDoS Simulation – Graduate-level project exploring distributed defense for IoT systems.
-
-🛡 Security Log Analyzer – Python tool for analyzing failed login patterns using regex + timestamping.
-
-🎯 Career Goals
-
-To work in cloud security, research engineering, or security architecture while contributing to the advancement of secure distributed systems.
-
-📫 Contact
-
-Email: andresasprilla92@gmail.com
+### 📫 Contact
+*Public email hidden — reach via GitHub or LinkedIn.*
 
 <!---
 B1tchrunch/B1tchrunch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
